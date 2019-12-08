@@ -1,0 +1,108 @@
+Wed Aug 30 16:02:29 CST 2017  [debug] AvalonLogSystem initialized using logfile 'velocity.log'
+Wed Aug 30 16:02:29 CST 2017   [info] ************************************************************** 
+Wed Aug 30 16:02:29 CST 2017   [info] Starting Jakarta Velocity v1.7
+Wed Aug 30 16:02:29 CST 2017   [info] RuntimeInstance initializing.
+Wed Aug 30 16:02:29 CST 2017   [info] Default Properties File: org\apache\velocity\runtime\defaults\velocity.properties
+Wed Aug 30 16:02:29 CST 2017   [info] Trying to use logger class org.apache.velocity.runtime.log.AvalonLogSystem
+Wed Aug 30 16:02:29 CST 2017   [info] Using logger class org.apache.velocity.runtime.log.AvalonLogSystem
+Wed Aug 30 16:02:29 CST 2017   [info] Default ResourceManager initializing. (class org.apache.velocity.runtime.resource.ResourceManagerImpl)
+Wed Aug 30 16:02:29 CST 2017   [info] Resource Loader Instantiated: org.apache.velocity.runtime.resource.loader.FileResourceLoader
+Wed Aug 30 16:02:29 CST 2017   [info] FileResourceLoader : initialization starting.
+Wed Aug 30 16:02:29 CST 2017   [info] FileResourceLoader : adding path 'D:\yellowcong\code\seasar\demo\src\main\webapp'
+Wed Aug 30 16:02:29 CST 2017   [info] FileResourceLoader : initialization complete.
+Wed Aug 30 16:02:29 CST 2017   [info] Resource Loader Instantiated: org.apache.struts2.views.velocity.StrutsResourceLoader
+Wed Aug 30 16:02:29 CST 2017   [info] ClasspathResourceLoader : initialization starting.
+Wed Aug 30 16:02:29 CST 2017   [info] ClasspathResourceLoader : initialization complete.
+Wed Aug 30 16:02:29 CST 2017   [info] ResourceCache : initialized. (class org.apache.velocity.runtime.resource.ResourceCacheImpl)
+Wed Aug 30 16:02:29 CST 2017   [info] Default ResourceManager initialization complete.
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded System Directive: org.apache.velocity.runtime.directive.Literal
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded System Directive: org.apache.velocity.runtime.directive.Macro
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded System Directive: org.apache.velocity.runtime.directive.Parse
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded System Directive: org.apache.velocity.runtime.directive.Include
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded System Directive: org.apache.velocity.runtime.directive.Foreach
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.ActionDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.BeanDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.CheckBoxDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.CheckBoxListDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.ComboBoxDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.ComponentDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.DateDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.DivDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.DoubleSelectDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.FileDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.FormDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.HeadDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.HiddenDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.AnchorDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.I18nDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.IncludeDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.LabelDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.ParamDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.PasswordDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.PushDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.PropertyDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.RadioDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.SelectDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.SetDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.SubmitDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.ResetDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.TextAreaDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.TextDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.TextFieldDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.TokenDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.URLDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.ActionErrorDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.ActionMessageDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.FieldErrorDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.OptionTransferSelectDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.UpDownSelectDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.ActionDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.BeanDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.CheckBoxDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.CheckBoxListDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.ComboBoxDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.ComponentDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.DateDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.DivDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.DoubleSelectDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.FileDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.FormDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.HeadDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.HiddenDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.AnchorDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.I18nDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.IncludeDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.LabelDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.ParamDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.PasswordDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.PushDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.PropertyDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.RadioDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.SelectDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.SetDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.SubmitDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.ResetDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.TextAreaDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.TextDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.TextFieldDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.TokenDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.URLDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.ActionErrorDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.ActionMessageDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.FieldErrorDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.OptionTransferSelectDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Loaded User Directive: org.apache.struts2.views.velocity.components.UpDownSelectDirective
+Wed Aug 30 16:02:29 CST 2017   [info] Created: 20 parsers.
+Wed Aug 30 16:02:29 CST 2017   [info] Velocimacro : initialization starting.
+Wed Aug 30 16:02:29 CST 2017   [info] Velocimacro : adding VMs from VM library template : VM_global_library.vm
+Wed Aug 30 16:02:29 CST 2017  [error] ResourceManager : unable to find resource 'VM_global_library.vm' in any resource loader.
+Wed Aug 30 16:02:29 CST 2017   [info] Velocimacro : error using  VM library template VM_global_library.vm : org.apache.velocity.exception.ResourceNotFoundException: Unable to find resource 'VM_global_library.vm'
+Wed Aug 30 16:02:29 CST 2017   [info] Velocimacro :  VM library template macro registration complete.
+Wed Aug 30 16:02:29 CST 2017   [info] Velocimacro : allowInline = true : VMs can be defined inline in templates
+Wed Aug 30 16:02:29 CST 2017   [info] Velocimacro : allowInlineToOverride = false : VMs defined inline may NOT replace previous VM definitions
+Wed Aug 30 16:02:29 CST 2017   [info] Velocimacro : allowInlineLocal = false : VMs defined inline will be  global in scope if allowed.
+Wed Aug 30 16:02:29 CST 2017   [info] Velocimacro : messages on  : VM system will output logging messages
+Wed Aug 30 16:02:29 CST 2017   [info] Velocimacro : autoload off  : VM system will not automatically reload global library macros
+Wed Aug 30 16:02:29 CST 2017   [info] Velocimacro : initialization complete.
+Wed Aug 30 16:02:29 CST 2017   [info] Velocity successfully started.
+Wed Aug 30 16:02:29 CST 2017   [info] ResourceManager : found //page/user/list.jsp with loader org.apache.velocity.runtime.resource.loader.FileResourceLoader
